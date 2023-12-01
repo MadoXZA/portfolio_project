@@ -16,14 +16,12 @@ Technologies Used
 HTML
 CSS
 JavaScript
-Bootstrap (optional)
-jQuery (optional)
 
 Getting Started
 
 Clone the repository: git clone 
 Open the project in your preferred code editor.
-Open the index.html file in your web browser to view the application.
+Open your web browser to view the application here
 
 Usage
 
@@ -53,3 +51,4 @@ If you have any questions or suggestions, please feel free to reach out to us:
 
 Neville Soundy: neville@example.com
 Timothy Klose: https://github.com/MadoXZA
+
