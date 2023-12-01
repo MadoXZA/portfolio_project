@@ -16,14 +16,12 @@ Technologies Used
 HTML
 CSS
 JavaScript
-Bootstrap (optional)
-jQuery (optional)
 
 Getting Started
 
 Clone the repository: git clone 
 Open the project in your preferred code editor.
-Open the index.html file in your web browser to view the application.
+Open the index.html file in your web browser to view the application here
 
 Usage
 
