@@ -21,7 +21,7 @@ Getting Started
 
 Clone the repository: git clone 
 Open the project in your preferred code editor.
-Open your web browser to view the application here
+Open your web browser to view the application [here](https://madoxza.github.io/portfolio_project/)
 
 Usage
 
